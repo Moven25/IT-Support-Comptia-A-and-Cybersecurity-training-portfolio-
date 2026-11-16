@@ -1,6 +1,6 @@
 # IT Support & Cybersecurity | Hands-On Lab Portfolio
 
-Welcome! This repository documents my learning journey toward **CompTIA A+**, entry-level **IT support**, and eventually **cybersecurity/SOC analysis**.
+Welcome! This repository documents my learning journey toward **CompTIA A+**, entry-level **IT support**, and eventually **Identity and Access Management (IAM)**.
 
 I use a virtual lab to practice technical skills, record evidence, explain what I learned, and build a portfolio of work I can discuss in interviews. **This is a learning portfolio, not a claim of professional IT employment or certification.**
 
@@ -20,7 +20,13 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 | [04 — Help Desk Tickets](04-Help-Desk-Tickets/README.md) | Structured troubleshooting and documentation | Planned |
 | [05 — PowerShell](05-PowerShell/README.md) | Command line and automation | Planned |
 | [06 — Security Fundamentals](06-Security-Fundamentals/README.md) | Firewall, Defender, event logs | Planned |
-| [07 — SOC Labs](07-SOC-Analyst-Labs/README.md) | Future security investigations | Future |
+| [07 — IAM Specialization](07-SOC-Analyst-Labs/README.md) | Future identity and access management projects | Future |
+
+## Learning roadmap
+
+**Current focus:** CompTIA A+ Core 1 (220-1201), followed by Core 2 (220-1202). Identity and Access Management (IAM) is a future specialization; I will build those labs after developing my IT foundations.
+
+See the [A+ study and lab roadmap](A-PLUS-ROADMAP.md) for how coursework and portfolio exercises fit together.
 
 ## Progress
 See [LAB-TRACKER.md](LAB-TRACKER.md) for lab status. **No formal labs have been completed or verified yet.**
