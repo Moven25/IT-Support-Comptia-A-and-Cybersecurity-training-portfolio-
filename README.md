@@ -20,7 +20,8 @@ I use a virtual lab to practice technical skills, record evidence, explain what 
 | [04 — Help Desk Tickets](04-Help-Desk-Tickets/README.md) | Structured troubleshooting and documentation | Planned |
 | [05 — PowerShell](05-PowerShell/README.md) | Command line and automation | Planned |
 | [06 — Security Fundamentals](06-Security-Fundamentals/README.md) | Firewall, Defender, event logs | Planned |
-| [07 — IAM Specialization](07-SOC-Analyst-Labs/README.md) | Future identity and access management projects | Future |
+| [07 — SOC Labs](07-SOC-Analyst-Labs/README.md) | Optional future security investigations | Future |
+| [08 — IAM Specialization](08-IAM-Specialization/README.md) | Future identity and access management projects | Future |
 
 ## Learning roadmap
 
